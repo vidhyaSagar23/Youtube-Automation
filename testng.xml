@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="com.sagar.qa.listeners.Listeners"></listener>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="C:/Users/sagar/Desktop/SELENIUM TESTING/App_Page_object_model">
+        <classes>
+            <class name="com.sagar.qa.testcases.HistoryTest">
+                <methods>
+                    <include name="clickClearHistory"/>
+                    <include name="pauseWatchHistory"/>
+                    <include name="clearAllSearchHistory"/>
+                </methods>
+            </class>
+            <class name="com.sagar.qa.testcases.HomeTest">
+                <methods>
+                    <include name="clickShorts"/>
+                    <include name="clickSubscriptions"/>
+                    <include name="clickYou"/>
+                    <include name="clickHistory"/>
+                    <include name="clickHome"/>
+                </methods>
+            </class>
+            <class name="com.sagar.qa.testcases.OptionsTest">
+                <methods>
+                    <include name="toggle"/>
+                    <include name="trending"/>
+                    <include name="shopping"/>
+                    <include name="movies"/>
+                    <include name="music"/>
+                    <include name="news"/>
+                    <include name="live"/>
+                    <include name="gaming"/>
+                    <include name="sports"/>
+                </methods>
+            </class>
+            <class name="com.sagar.qa.testcases.SettingsTest">
+                <methods>
+                    <include name="yourData"/>
+                    <include name="deviceTheme"/>
+                    <include name="language"/>
+                    <include name="location"/>
+                    <include name="restrictMode"/>
+                    <include name="shortcuts"/>
+                </methods>
+            </class>
+            <class name="com.sagar.qa.testcases.ShortsTest">
+                <methods>
+                    <include name="likeButton"/>
+                    <include name="dislikeButton"/>
+                    <include name="comments"/>
+                    <include name="share"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

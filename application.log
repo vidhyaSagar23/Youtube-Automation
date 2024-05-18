@@ -1,0 +1,242 @@
+2024-05-15 11:12:22 INFO  TestBase:44 - Brower Name :chrome
+  2024-05-15 11:12:24 INFO  TestBase:49 - Application URL : https://www.facebook.com/
+  2024-05-15 11:12:25 INFO  TestBase:22 - Clicking Toggle bar
+  2024-05-15 11:12:34 INFO  TestBase:34 - close method
+  2024-05-15 11:17:30 INFO  TestBase:48 - Brower Name :chrome
+  2024-05-15 11:17:32 INFO  TestBase:53 - Application URL : https://www.facebook.com/
+  2024-05-15 11:17:33 INFO  TestBase:22 - Clicking Toggle bar
+  2024-05-15 11:17:41 INFO  TestBase:34 - close method
+  2024-05-15 11:19:03 INFO  TestBase:53 - Brower Name :chrome
+  2024-05-15 11:19:05 INFO  TestBase:58 - Application URL : https://www.facebook.com/
+  2024-05-15 11:19:06 INFO  TestBase:22 - Clicking Toggle bar
+  2024-05-15 11:19:15 INFO  TestBase:34 - close method
+  2024-05-15 11:20:17 INFO  TestBase:53 - Brower Name :chrome
+  2024-05-15 11:20:19 INFO  TestBase:58 - Application URL : https://www.youtube.com/
+  2024-05-15 11:20:22 INFO  TestBase:29 - Executing createPageMethod
+  2024-05-15 11:24:08 INFO  TestBase:50 - Brower Name :chrome
+  2024-05-15 11:24:10 INFO  TestBase:55 - Application URL : https://www.youtube.com/
+  2024-05-15 11:31:27 INFO  TestBase:50 - Brower Name :chrome
+  2024-05-15 11:31:28 INFO  TestBase:55 - Application URL : https://www.youtube.com/
+  2024-05-15 11:38:14 INFO  TestBase:50 - Brower Name :chrome
+  2024-05-15 11:38:16 INFO  TestBase:55 - Application URL : https://www.youtube.com/
+  2024-05-15 11:38:19 INFO  TestBase:41 - clicking history
+  2024-05-15 11:38:19 INFO  TestBase:50 - Brower Name :chrome
+  2024-05-15 11:38:20 INFO  TestBase:55 - Application URL : https://www.youtube.com/
+  2024-05-15 11:38:23 INFO  TestBase:47 - clicking home
+  2024-05-15 11:38:24 INFO  TestBase:50 - Brower Name :chrome
+  2024-05-15 11:38:25 INFO  TestBase:55 - Application URL : https://www.youtube.com/
+  2024-05-15 11:38:28 INFO  TestBase:23 - clicking shorts
+  2024-05-15 11:38:28 INFO  TestBase:50 - Brower Name :chrome
+  2024-05-15 11:38:29 INFO  TestBase:55 - Application URL : https://www.youtube.com/
+  2024-05-15 11:38:32 INFO  TestBase:29 - clicking subscritions
+  2024-05-15 11:38:33 INFO  TestBase:50 - Brower Name :chrome
+  2024-05-15 11:38:34 INFO  TestBase:55 - Application URL : https://www.youtube.com/
+  2024-05-15 11:38:37 INFO  TestBase:35 - clicking you
+  2024-05-15 12:00:26 INFO  TestBase:50 - Brower Name :chrome
+  2024-05-15 12:00:28 INFO  TestBase:55 - Application URL : https://www.youtube.com/
+  2024-05-15 12:00:31 INFO  TestBase:23 - clear History method
+  2024-05-15 12:07:11 INFO  TestBase:50 - Brower Name :chrome
+  2024-05-15 12:07:13 INFO  TestBase:55 - Application URL : https://www.youtube.com/
+  2024-05-15 12:07:17 INFO  TestBase:29 - pause watch history
+  2024-05-15 12:07:27 INFO  TestBase:50 - Brower Name :chrome
+  2024-05-15 12:07:29 INFO  TestBase:55 - Application URL : https://www.youtube.com/
+  2024-05-15 12:07:32 INFO  TestBase:35 - clear all search history
+  2024-05-15 12:27:41 INFO  TestBase:50 - Brower Name :chrome
+  2024-05-15 12:27:43 INFO  TestBase:55 - Application URL : https://www.youtube.com/
+  2024-05-15 12:27:48 INFO  TestBase:22 - like button
+  2024-05-15 12:28:03 INFO  TestBase:50 - Brower Name :chrome
+  2024-05-15 12:28:05 INFO  TestBase:55 - Application URL : https://www.youtube.com/
+  2024-05-15 12:28:08 INFO  TestBase:28 - Dislike button
+  2024-05-15 12:33:25 INFO  TestBase:50 - Brower Name :chrome
+  2024-05-15 12:33:27 INFO  TestBase:55 - Application URL : https://www.youtube.com/
+  2024-05-15 12:33:30 INFO  TestBase:34 - Comments method
+  2024-05-15 13:01:15 INFO  TestBase:50 - Brower Name :chrome
+  2024-05-15 13:01:17 INFO  TestBase:55 - Application URL : https://www.youtube.com/
+  2024-05-15 13:01:20 INFO  TestBase:22 - clicking toggle button
+  2024-05-15 14:18:23 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-15 14:18:28 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-15 14:18:35 INFO  TestBase:37 - Comments method
+  2024-05-15 14:18:40 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-15 14:18:42 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-15 14:18:47 INFO  TestBase:31 - Dislike button
+  2024-05-15 14:18:52 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-15 14:18:53 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-15 14:18:59 INFO  TestBase:25 - like button
+  2024-05-15 14:19:04 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-15 14:19:05 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-15 14:19:10 INFO  TestBase:43 - Share method
+  2024-05-15 14:21:46 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-15 14:21:49 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-15 14:21:55 INFO  TestBase:26 - clear History method
+  2024-05-15 14:21:59 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-15 14:22:00 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-15 14:22:06 INFO  TestBase:32 - pause watch history
+  2024-05-15 14:22:08 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-15 14:22:10 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-15 14:22:16 INFO  TestBase:38 - clear all search history
+  2024-05-15 14:22:18 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-15 14:22:20 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-15 14:22:22 INFO  TestBase:24 - clicking shorts
+  2024-05-15 14:22:26 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-15 14:22:27 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-15 14:22:32 INFO  TestBase:30 - clicking subscritions
+  2024-05-15 14:22:33 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-15 14:22:34 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-15 14:22:39 INFO  TestBase:36 - clicking you
+  2024-05-15 14:22:40 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-15 14:22:41 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-15 14:22:47 INFO  TestBase:42 - clicking history
+  2024-05-15 14:22:48 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-15 14:22:49 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-15 14:22:52 INFO  TestBase:48 - clicking home
+  2024-05-15 14:22:55 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-15 14:22:56 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-15 14:23:02 INFO  TestBase:24 - clicking toggle button
+  2024-05-15 14:23:05 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-15 14:23:06 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-15 14:23:17 INFO  TestBase:25 - like button
+  2024-05-15 14:23:22 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-15 14:23:24 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-15 14:23:32 INFO  TestBase:31 - Dislike button
+  2024-05-15 14:23:37 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-15 14:23:39 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-15 14:23:44 INFO  TestBase:37 - Comments method
+  2024-05-15 14:23:49 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-15 14:23:50 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-15 14:23:56 INFO  TestBase:43 - Share method
+  2024-05-17 16:09:54 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-17 16:09:59 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-17 16:10:07 INFO  TestBase:24 - clicking toggle button
+  2024-05-18 12:06:04 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 12:06:08 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 12:06:15 INFO  TestBase:24 - clicking toggle button
+  2024-05-18 12:16:01 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 12:16:04 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 12:16:10 INFO  TestBase:30 - clicking trending
+  2024-05-18 12:26:51 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 12:26:54 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 12:27:00 INFO  TestBase:66 - click gaming
+  2024-05-18 12:27:04 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 12:27:05 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 12:27:10 INFO  TestBase:60 - clicking live
+  2024-05-18 12:27:14 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 12:27:15 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 12:27:22 INFO  TestBase:42 - clicking movies
+  2024-05-18 12:27:24 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 12:27:26 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 12:27:33 INFO  TestBase:48 - clicking music
+  2024-05-18 12:27:36 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 12:27:38 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 12:27:40 INFO  TestBase:54 - clicking news
+  2024-05-18 12:27:47 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 12:27:48 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 12:27:54 INFO  TestBase:36 - clicking shopping
+  2024-05-18 12:27:57 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 12:27:59 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 12:28:05 INFO  TestBase:72 - click sports
+  2024-05-18 12:28:08 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 12:28:10 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 12:28:16 INFO  TestBase:24 - clicking toggle button
+  2024-05-18 12:28:19 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 12:28:20 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 12:28:25 INFO  TestBase:30 - clicking trending
+  2024-05-18 13:07:59 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 13:08:02 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 13:08:09 INFO  TestBase:29 - Clicking device themes
+  2024-05-18 13:08:12 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 13:08:13 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 13:08:19 INFO  TestBase:35 - clicking language
+  2024-05-18 13:08:22 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 13:08:24 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 13:08:29 INFO  TestBase:41 - clicking location
+  2024-05-18 13:08:32 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 13:08:34 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 13:08:39 INFO  TestBase:47 - clicking restrict mode
+  2024-05-18 13:08:43 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 13:08:44 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 13:08:50 INFO  TestBase:53 - clicking shortcuts
+  2024-05-18 13:08:53 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 13:08:54 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 13:09:00 INFO  TestBase:23 - Clicking your data
+  2024-05-18 13:12:41 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 13:12:44 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 13:12:52 INFO  TestBase:26 - clear History method
+  2024-05-18 13:12:56 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 13:12:57 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 13:13:03 INFO  TestBase:32 - pause watch history
+  2024-05-18 13:13:06 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 13:13:07 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 13:13:13 INFO  TestBase:38 - clear all search history
+  2024-05-18 13:13:16 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 13:13:17 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 13:13:23 INFO  TestBase:24 - clicking shorts
+  2024-05-18 13:13:23 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 13:13:25 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 13:13:32 INFO  TestBase:30 - clicking subscritions
+  2024-05-18 13:13:33 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 13:13:34 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 13:13:39 INFO  TestBase:36 - clicking you
+  2024-05-18 13:13:40 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 13:13:42 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 13:13:47 INFO  TestBase:42 - clicking history
+  2024-05-18 13:13:47 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 13:13:49 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 13:13:55 INFO  TestBase:48 - clicking home
+  2024-05-18 13:13:55 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 13:13:57 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 13:14:05 INFO  TestBase:23 - clicking toggle button
+  2024-05-18 13:14:07 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 13:14:09 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 13:14:11 INFO  TestBase:29 - clicking trending
+  2024-05-18 13:14:18 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 13:14:19 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 13:14:25 INFO  TestBase:35 - clicking shopping
+  2024-05-18 13:14:29 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 13:14:30 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 13:14:36 INFO  TestBase:41 - clicking movies
+  2024-05-18 13:14:39 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 13:14:40 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 13:14:47 INFO  TestBase:47 - clicking music
+  2024-05-18 13:14:50 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 13:14:51 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 13:14:57 INFO  TestBase:53 - clicking news
+  2024-05-18 13:15:01 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 13:15:02 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 13:15:08 INFO  TestBase:59 - clicking live
+  2024-05-18 13:15:12 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 13:15:13 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 13:15:18 INFO  TestBase:65 - click gaming
+  2024-05-18 13:15:22 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 13:15:23 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 13:15:29 INFO  TestBase:71 - click sports
+  2024-05-18 13:15:32 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 13:15:33 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 13:15:39 INFO  TestBase:22 - Clicking your data
+  2024-05-18 13:15:43 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 13:15:44 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 13:15:50 INFO  TestBase:28 - Clicking device themes
+  2024-05-18 13:15:53 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 13:15:54 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 13:16:00 INFO  TestBase:34 - clicking language
+  2024-05-18 13:16:03 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 13:16:05 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 13:16:09 INFO  TestBase:40 - clicking location
+  2024-05-18 13:16:13 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 13:16:14 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 13:16:20 INFO  TestBase:46 - clicking restrict mode
+  2024-05-18 13:16:23 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 13:16:24 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 13:16:27 INFO  TestBase:52 - clicking shortcuts
+  2024-05-18 13:16:32 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 13:16:34 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 13:16:39 INFO  TestBase:25 - like button
+  2024-05-18 13:16:45 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 13:16:46 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 13:16:52 INFO  TestBase:31 - Dislike button
+  2024-05-18 13:16:57 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 13:16:58 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 13:17:04 INFO  TestBase:37 - Comments method
+  2024-05-18 13:17:09 INFO  TestBase:40 - Brower Name :chrome
+  2024-05-18 13:17:11 INFO  TestBase:45 - Application URL : https://www.youtube.com/
+  2024-05-18 13:17:16 INFO  TestBase:43 - Share method
+  
